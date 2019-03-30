@@ -1,0 +1,63 @@
+@import "fonts.css";
+
+form{
+    background-color:rgba(0, 0, 0, 0.6); 
+    grid-column: 7/20 ;
+    grid-row:7/18 ; 
+}
+
+form>p{
+    font-family: 'Ailerons', Courier, monospace;
+    margin-top: 4vh;
+    text-align: center;
+    font-size:2.5vh;
+}
+
+form>input{
+    color:white;
+    text-align:left;
+    font-size: 4vh;
+    margin: auto;
+    margin-top:4vh;
+    height:5vh;
+    width:60%;
+    background:rgba(0, 0, 0, 0);
+    border:0;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    display:block;
+}
+
+form>input:active {
+    outline: 0;
+  }
+
+form>input:focus {
+    outline: 0;
+    border-bottom-color: #77c03b;
+  }
+
+form>input:hover {
+    border-bottom-color: #77c03b;
+  }
+
+  button{
+    color:rgb(206, 197, 197);
+    background-color:rgba(0, 0, 0, 0);
+    font-family: 'Ailerons', Courier, monospace;
+    font-size: 2vw;
+    line-height: 2vw;
+    height:5vh;
+    width:30%;
+    margin: auto;
+    margin-top:4vh;
+    display:block;
+    border-width: 2px;
+	border-color:rgb(206, 197, 197);
+	border-style:solid;
+  }
+  button:hover{
+   color:white;
+   border-color: white;
+  }

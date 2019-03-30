@@ -1,0 +1,17 @@
+@import "fonts.css";
+
+#press{
+    grid-column: 7/20;
+    grid-row:7/18;
+    text-align: center;
+    font-family: 'Ailerons', Courier, monospace;
+    font-size:6vh;
+}
+
+#press>a{
+    color:green;
+}
+
+#press>a:hover{
+    color:white;
+}

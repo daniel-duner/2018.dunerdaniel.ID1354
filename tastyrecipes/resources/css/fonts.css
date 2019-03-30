@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Quicksand');
+
+/*
+font-family: 'PT Sans', sans-serif;
+font-family: 'Quicksand', sans-serif;
+*/
+
+@font-face {
+  font-family: 'Lumberjack inline rough';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Lumberjack Inline Rough.otf');
+}
+@font-face {
+  font-family: 'Lumberjack rough';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Lumberjack Rough.otf');
+}
+@font-face {
+  font-family: 'Lombok';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Lombok.otf');
+}
+@font-face {
+  font-family: 'Ailerons';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Ailerons.otf');
+}

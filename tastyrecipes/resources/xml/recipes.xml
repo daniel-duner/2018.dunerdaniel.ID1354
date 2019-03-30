@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cookbook>
+  <recipe>
+    <id>pancakes</id>
+    <title>Pancakes</title>
+    <measurement>
+      <li>2 1/2 dl</li>
+      <li>1/2 tea spoon</li>
+      <li>6 dl</li>
+      <li>3
+      </li>
+      <li>3 spoons</li>
+    </measurement>
+    <ingredient>
+      <li>Fluor</li>
+      <li>Salt</li>
+      <li>Milk</li>
+      <li>Eggs</li>
+      <li>Butter</li>
+    </ingredient>
+    <recipetext>
+      <li>Mix flour and salt in a bowl. Beat in half of the milk and whisk to a
+        smooth batter. Beat in the rest of the milk and the eggs.</li>
+      <li>Melt the butter in the frying pan and whisk into the batter.
+        Stir thin pancakes of the batter in a frying pan or pancake pan.</li>
+      <li>Serve with jam, berries or fruit.</li>
+    </recipetext>
+    <imagepath>/resources/images/pkaka_insp.jpg</imagepath>
+    <alt>pancakes.img</alt>
+  </recipe>
+
+  <recipe>
+    <id>meatballs</id>
+    <title>Meatballs</title>
+    <measurement>
+      <li>500 g</li>
+      <li>1/2 dl</li>
+      <li>1 dl</li>
+      <li>2 spoons</li>
+      <li>1
+      </li>
+      <li>1 tea spoon</li>
+      <li>1 ml</li>
+      <li>2 spoons
+      </li>
+    </measurement>
+    <ingredient>
+      <li>Minced meat</li>
+      <li>Breadcrumbs</li>
+      <li>Cooking cream</li>
+      <li>Chopped onions</li>
+      <li>Egg
+      </li>
+      <li>Salt</li>
+      <li>Black pepper</li>
+      <li>Butter</li>
+    </ingredient>
+    <recipetext>
+      <li>Mix bread and cream. Let swell 10 min.</li>
+      <li>Add the fries, onions, eggs, salt and pepper. Stir to a smooth smear.</li>
+      <li>Form the batter to even buns. Fry them in butter and rapeseed oil on medium 3-5 minutes.</li>
+    </recipetext>
+    <imagepath>/resources/images/kbullar_insp.jpg</imagepath>
+    <alt>meatballs.img</alt>
+  </recipe>
+</cookbook>
